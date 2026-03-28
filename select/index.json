@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Stay With Me (Official Music Video)",
+  "base_artist": "Sam Smith",
+  "createdAt": "2026-03-28T11:00:23.273275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay with Me",
+      "artist": "OMD",
+      "has_synced": true,
+      "path": "select/01_Stay_with_Me_OMD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come and Stay with Me",
+      "artist": "Marianne Faithfull",
+      "has_synced": true,
+      "path": "select/02_Come_and_Stay_with_Me_Marianne_Faithfull.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come And Stay With Me",
+      "artist": "Marianne Faithful",
+      "has_synced": true,
+      "path": "select/03_Come_And_Stay_With_Me_Marianne_Faithful.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come and Stay With Me",
+      "artist": "Jackie DeShannon",
+      "has_synced": false,
+      "path": "select/04_Come_and_Stay_With_Me_Jackie_DeShannon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay With Me",
+      "artist": "Blue Mink",
+      "has_synced": false,
+      "path": "select/05_Stay_With_Me_Blue_Mink.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stay With Me",
+      "artist": "DeBarge",
+      "has_synced": true,
+      "path": "select/06_Stay_With_Me_DeBarge.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay With Me",
+      "artist": "DeBarge",
+      "has_synced": true,
+      "path": "select/07_Stay_With_Me_DeBarge.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stay With Me",
+      "artist": "Eighth Wonder",
+      "has_synced": true,
+      "path": "select/08_Stay_With_Me_Eighth_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stay With Me",
+      "artist": "Gino Vannelli",
+      "has_synced": true,
+      "path": "select/09_Stay_With_Me_Gino_Vannelli.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay With Me Tonight",
+      "artist": "Mandy Smith",
+      "has_synced": false,
+      "path": "select/10_Stay_With_Me_Tonight_Mandy_Smith.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stay With Me",
+      "artist": "Cappella",
+      "has_synced": false,
+      "path": "select/11_Stay_With_Me_Cappella.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay With Me",
+      "artist": "Double You",
+      "has_synced": false,
+      "path": "select/12_Stay_With_Me_Double_You.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stay With Me (By the Sea)",
+      "artist": "Al Green",
+      "has_synced": true,
+      "path": "select/13_Stay_With_Me_(By_the_Sea)_Al_Green.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One More Chance / Stay With Me (Remix)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": false,
+      "path": "select/14_One_More_Chance___Stay_With_Me_(Remix)_The_Notorious_B.I.G..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay With Me",
+      "artist": "Sam Smith",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_With_Me_Sam_Smith.txt"
+    }
+  ]
+}
